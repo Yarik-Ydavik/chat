@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "778057054988",
+    "project_id": "hackaton2023-a7e87",
+    "storage_bucket": "hackaton2023-a7e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778057054988:android:f6a69028c6fc7b88b52729",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778057054988-mii410o6mhls7c19e74c49mo5o8t0fhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat",
+            "certificate_hash": "a95b1e0fa03b02c72b580f2b4d9db2733ce71ff9"
+          }
+        },
+        {
+          "client_id": "778057054988-uiot2kh15ir2p3igj2mm46arrmfjpv7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgF6Zc9Ai50BbEUBSHv_3AXOqrfZkd480"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778057054988-uiot2kh15ir2p3igj2mm46arrmfjpv7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
